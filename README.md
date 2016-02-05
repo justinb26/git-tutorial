@@ -1,2 +1,2 @@
-# git-tutorial
-Sandbox site for teaching/learning git
+# git-tutorial - yay I'm making changes
+Sandbox site (with changes) for teaching/learning git
